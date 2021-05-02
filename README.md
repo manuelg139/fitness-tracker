@@ -23,14 +23,14 @@ As a user I want to be able to view create and track my daily workouts. I want t
 ## Installation
 
 - To create this app on your local enviroment first clone the repo.
-  $ cd [path_to_save_codebase]
-  $ git clone (CLONE LINK)
+   -- $ cd [path_to_save_codebase]
+   -- $ git clone (CLONE LINK)
 
 - Run the application:
-  Open Terminal
-  $ npm install
-  $ npm run seed
-  $ npm start
+ -- Open Terminal
+  -- $ npm install
+  -- $ npm run seed
+  -- $ npm start
 
 ## Link to the Repo
 

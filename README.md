@@ -51,7 +51,7 @@ https://github.com/manuelg139/fitness-tracker
 - Javascript
 - VSCode
 - Cloud Mongo
-- Herkoku
+- Heroku
 
 ## Dependencies
 

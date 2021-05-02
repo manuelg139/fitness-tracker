@@ -45,6 +45,10 @@ https://github.com/manuelg139/fitness-tracker
 
 ## Media
 
+![ReadMe-Gif](https://user-images.githubusercontent.com/75399668/116801734-0b0a2380-aad2-11eb-9b1c-353f58144a57.gif)
+
+
+
 ## Technologies Used
 
 - Node.js
